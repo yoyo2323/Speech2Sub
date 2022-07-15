@@ -1,9 +1,0 @@
-pyrogram
-tgcrypto
-numpy
-pydub
-scikit-learn
-scipy
-tqdm
-vosk
-requests
